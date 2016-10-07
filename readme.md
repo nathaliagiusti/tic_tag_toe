@@ -3,7 +3,7 @@
 #### Requirements ####
 * PHP >= 5.6.4
 
-* Vagrant
+* Vagrant >= 1.8.6
 
 * Composer
 
