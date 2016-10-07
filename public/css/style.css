@@ -1,0 +1,43 @@
+.game {
+    width: 635px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+table {
+    width: 300px;
+    height: 300px;
+    margin: 0 10px 0 10px;
+}
+
+td {
+    border: 1px solid gray;
+}
+
+table a {
+    display:block;
+    width: 97px;
+    height: 97px;
+    text-decoration:none;
+}
+
+table a:hover {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+.player-1, .board, .player-2 {
+    float:left;
+}
+
+.player-1, .player-2 {
+    width: 150px;
+    height: 300px;
+}
+
+.player-2 {
+    text-align: right;
+}
