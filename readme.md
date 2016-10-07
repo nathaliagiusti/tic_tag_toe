@@ -1,6 +1,8 @@
 ### Tic Tag Toe Game ###
 
 #### Requirements ####
+* PHP >= 5.6.4
+
 * Vagrant
 
 * Composer
@@ -12,6 +14,7 @@
 	cd tic_tag_toe
 
 #### Configuring ####
+	composer install
 	php vendor/bin/homestead make
 	
 #### Add hostname to your hostfile  ####
