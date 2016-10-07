@@ -8,7 +8,7 @@ var Game = {
     },
 
     //change to the api address (create a config file to add this?)
-    api_url : 'http://game.api/game',
+    api_url : 'game',
 
     play : function() {
 
