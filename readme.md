@@ -32,4 +32,9 @@ Add the following line to your /etc/hosts file.
 #### Run the tests ####
 	phpunit
 
+#### To do ####
+* Improve the error messages on the API
+* Display "Select a player unit" option
+* Display "Restart the game" option
+* Higher test coverage
 
